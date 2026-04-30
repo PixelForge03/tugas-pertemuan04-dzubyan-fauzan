@@ -46,5 +46,5 @@ pbasisdata-pertemuan4-dzubyan-fauzan.s-IK2411005/
 
 | File | Keterangan |
 |------|------------|
-| `kuis_pertemuan4_IK2411019.sql` | Script SQL lengkap: pembuatan database, tabel, data contoh, semua procedure, query CASE, dan script pengujian |
-| `laporan_analisis_pertemuan4_IK2411019.pdf` | Laporan analisis berisi identitas, deskripsi kasus, penjelasan logika percabangan, langkah pengerjaan, hasil eksekusi, analisis output, dan kesimpulan |
+| `kuis_pertemuan4_IK2411005.sql` | Script SQL lengkap: pembuatan database, tabel, data contoh, semua procedure, query CASE, dan script pengujian |
+| `laporan_analisis_pertemuan4_IK2411005.pdf` | Laporan analisis berisi identitas, deskripsi kasus, penjelasan logika percabangan, langkah pengerjaan, hasil eksekusi, analisis output, dan kesimpulan |
